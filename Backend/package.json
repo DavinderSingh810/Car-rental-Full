@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "engine": "^1.0.0",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1",
+    "nodemin": "^1.0.1",
+    "nodemon": "^3.1.0",
+    "parser": "^0.1.4",
+    "view": "^1.1.1"
+  },
+  "scripts": {
+    "nodemon": "node server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+
+}
